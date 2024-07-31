@@ -1,0 +1,39 @@
+{
+  "installation": [
+    {
+      "id": 1,
+      "username": "Alia",
+      "email": "alia@gmail.com",
+      "phone": "1234543210",
+      "installeddate": "1/08/2024"
+    },
+    {
+      "username": "asd",
+      "email": "asd@gmail.com",
+      "phone": "1234567890",
+      "installeddate": "2024-07-31T05:05:19.970Z",
+      "id": 2
+    },
+    {
+      "username": "wee",
+      "email": "wee@gmail.com",
+      "phone": "22333333333333",
+      "installeddate": "2024-07-31T05:25:40.069Z",
+      "id": 3
+    },
+    {
+      "username": "tttt",
+      "email": "eeeeeeee@gmail.com",
+      "phone": "33333333333",
+      "installeddate": "2024-07-31T05:30:12.962Z",
+      "id": 4
+    },
+    {
+      "username": "rtr",
+      "email": "rtr@gmail.com",
+      "phone": "11111111111",
+      "installeddate": "2024-07-31T05:43:04.178Z",
+      "id": 5
+    }
+  ]
+}
