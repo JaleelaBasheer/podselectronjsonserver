@@ -2,6 +2,8 @@
 const jsonServer = require('json-server');
 const path = require('path');
 const fs = require('fs');
+const nodemailer = require('nodemailer');
+const crypto = require('crypto');
 
 // 2. Create server app
 const server = jsonServer.create();

@@ -1,39 +1,24 @@
 {
   "installation": [
     {
-      "id": 1,
-      "username": "Alia",
-      "email": "alia@gmail.com",
-      "phone": "1234543210",
-      "installeddate": "1/08/2024"
+      "username": "ansh",
+      "email": "ansh@gmail.com",
+      "password": "ansh",
+      "id": "1646fd17-9481-4d8f-81d0-3ca68a3fde01",
+      "installeddate": "2024-08-01T10:30:57.810Z",
+      "usageCount": 26,
+      "lastUsageDate": "2024-08-02T10:51:24.091Z"
     },
     {
-      "username": "asd",
-      "email": "asd@gmail.com",
-      "phone": "1234567890",
-      "installeddate": "2024-07-31T05:05:19.970Z",
-      "id": 2
-    },
-    {
-      "username": "wee",
-      "email": "wee@gmail.com",
-      "phone": "22333333333333",
-      "installeddate": "2024-07-31T05:25:40.069Z",
-      "id": 3
-    },
-    {
-      "username": "tttt",
-      "email": "eeeeeeee@gmail.com",
-      "phone": "33333333333",
-      "installeddate": "2024-07-31T05:30:12.962Z",
-      "id": 4
-    },
-    {
-      "username": "rtr",
-      "email": "rtr@gmail.com",
-      "phone": "11111111111",
-      "installeddate": "2024-07-31T05:43:04.178Z",
-      "id": 5
+      "username": "Jaleela Basheer",
+      "email": "jaleelabasher91@gmail.com",
+      "password": "jaleela",
+      "id": "1fdadb3d-f3fa-4a4f-9d2d-b51f169fd355",
+      "installeddate": "2024-08-02T05:47:04.216Z",
+      "usageCount": 7,
+      "lastUsageDate": "2024-08-05T03:27:07.413Z",
+      "totalTimeSpent": 424
     }
+   
   ]
 }
