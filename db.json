@@ -1,24 +1,3 @@
 {
-  "installation": [
-    {
-      "username": "ansh",
-      "email": "ansh@gmail.com",
-      "password": "ansh",
-      "id": "1646fd17-9481-4d8f-81d0-3ca68a3fde01",
-      "installeddate": "2024-08-01T10:30:57.810Z",
-      "usageCount": 26,
-      "lastUsageDate": "2024-08-02T10:51:24.091Z"
-    },
-    {
-      "username": "Jaleela Basheer",
-      "email": "jaleelabasher91@gmail.com",
-      "password": "jaleela",
-      "id": "1fdadb3d-f3fa-4a4f-9d2d-b51f169fd355",
-      "installeddate": "2024-08-02T05:47:04.216Z",
-      "usageCount": 7,
-      "lastUsageDate": "2024-08-05T03:27:07.413Z",
-      "totalTimeSpent": 424
-    }
-   
-  ]
+  "installation": []
 }
