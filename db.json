@@ -1,3 +1,14 @@
 {
-  "installation": []
+  "installation": [
+    {
+      "username": "Jaleela",
+      "email": "jaleelabasheer91@gmail.com",
+      "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+      "installeddate": "2024-08-07T08:43:44.819Z",
+      "id": 1,
+      "usageCount": 22,
+      "totalTimeSpent": 21719717,
+      "lastUsageDate": "2024-08-07T08:44:40.615Z"
+    }
+  ]
 }

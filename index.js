@@ -13,7 +13,7 @@ const middleware = jsonServer.defaults()
 const router = jsonServer.router("db.json")
 
 // 5. Set up port number to run server
-const port = 3000 || process.env.PORT
+const port = 4000 || process.env.PORT
 
 // 6. use middleware and router to the server
 server.use(middleware)
